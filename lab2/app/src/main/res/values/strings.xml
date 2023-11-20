@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="list_task_title">Tasks</string>
+    <string name="add_new">+ Add New</string>
+    <string name="task_edit_name_hint">Name</string>
+    <string name="task_edit_description_hint">Description</string>
+    <string name="task_edit_completed">Completed:</string>
+    <string name="task_edit_no_deadline">Select date</string>
+    <string name="task_edit_primary_button">Save</string>
+</resources>
